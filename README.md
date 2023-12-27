@@ -1,6 +1,10 @@
 # Solidjs-ethereum
 
 This is my personal notes to create solidjs project to create Ethereum walllet.
+User can create new Ethereum, wallet and displays phrase.
+User can also restore wallet using the password provided when you created a new wallet.
+
+## Setup
 
 1. Create SolidJS project
 
